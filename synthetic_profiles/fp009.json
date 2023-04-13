@@ -1,0 +1,15 @@
+{
+    "uuid": "85464f70-d080-4f2f-ae34-d9c3888bdbb6",
+    "profile": {
+        "condition": "Cancer of Pancreas",
+        "country": "Italy",
+        "age": 62,
+        "gender": "Male",
+        "profile": "Histology: adenocarcinoma, stage IV\nPrevious treatment: 1. FOLFIRINOX, 2. Gemcitabine/nab-paclitaxel\nBiomarkers: KRAS G12D\nTests: None\nComorbidities: diabetes type II\nOther: None"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT04644068","NCT04665921","NCT02912949","NCT04692740","NCT03829501","NCT05360264","NCT03906331"],
+        "ineligible": ["NCT05586516", "NCT03485209", "NCT03816163", "NCT03377491", "NCT03822936", "NCT04935359", "NCT03528785"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "00bf9e9a-871a-4c97-9309-a683d2c26708",
+    "profile": {
+        "condition": "Breast Cancer",
+        "country": "Netherlands",
+        "age": 55,
+        "gender": "Female",
+        "profile": "Histology: ER-, PR-, HER2- metastasized to femur\nPrevious treatment: dose-dense AC and paclitaxel. Second-line sacituzumab govitecan and currently on eribulin and zoledronic acid\nBiomarkers: BRCA negative\nTests: None\nComorbidities: postmenopausal osteoporosis\nOther: ECOG 1"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT04526106","NCT04587908","NCT05693142","NCT05338099","NCT04281485","NCT05007106","NCT04659603","NCT04159818","NCT05383170"],
+        "ineligible": ["NCT05703555", "NCT05503108", "NCT05382286", "NCT05382299", "NCT03613220", "NCT04622319", "NCT01898117", "NCT03267316", "NCT03815890", "NCT04961996", "NCT03975647", "NCT05063786", "NCT04739761", "NCT04494425", "NCT02810743", "NCT03845166"]
+    }
+}

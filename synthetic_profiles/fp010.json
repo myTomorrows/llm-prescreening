@@ -1,0 +1,15 @@
+{
+    "uuid": "eabf3287-a205-46ac-afaa-1c0286f2ab04",
+    "profile": {
+        "condition": "Carcinoma, Non-Small-Cell Lung",
+        "country": "Switzerland",
+        "age": 58,
+        "gender": "Male",
+        "profile": "Histology: adenocarcinoma right lung metastasized to left lung\nPrevious treatment: pemetrexed, carboplatin, pembrolizumab\nBiomarkers: PD-L1 30%, EGFR/HER2/ALK/ROS1/KRAS/RET/MET wildtype, HER2/c-MET overexpression unknown\nTests: None\nComorbidities: COPD\nOther: daily smoker"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT03539536","NCT04549428","NCT04389632","NCT05195619","NCT05688280"],
+        "ineligible": ["NCT05718297", "NCT05261399", "NCT05601973", "NCT05598853", "NCT05522660", "NCT05338970", "NCT05215340", "NCT03645928", "NCT04294810", "NCT04222972", "NCT03906331", "NCT04832854", "NCT04619797", "NCT04623775", "NCT04351555", "NCT04245514", "NCT04685135", "NCT04449874", "NCT03924869", "NCT04656652"
+        ]
+    }
+}

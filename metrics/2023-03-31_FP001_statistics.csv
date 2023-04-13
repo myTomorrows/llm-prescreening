@@ -1,0 +1,50 @@
+Part of Confusion Matrix,total,type,evaluation,in-/exclusion,value,count,impacts_recall
+Screenable & Screened,38,reasoning,correct,,,28,
+Screenable & Screened,38,reasoning,incorrect,,D,6,
+Screenable & Screened,38,reasoning,incorrect,,E,3,
+Screenable & Screened,38,reasoning,incorrect,,F,1,
+Screenable & Screened,38,reasoning,not reasoned,,,0,
+Screenable & Screened,38,answer,correct,inclusion,True,23,
+Screenable & Screened,38,answer,correct,inclusion,False,1,True
+Screenable & Screened,38,answer,correct,inclusion,Unknown,0,
+Screenable & Screened,38,answer,correct,exclusion,True,3,True
+Screenable & Screened,38,answer,correct,exclusion,False,2,
+Screenable & Screened,38,answer,correct,exclusion,Unknown,0,
+Screenable & Screened,38,answer,incorrect,inclusion,True,1,
+Screenable & Screened,38,answer,incorrect,inclusion,False,2,True
+Screenable & Screened,38,answer,incorrect,inclusion,Unknown,0,
+Screenable & Screened,38,answer,incorrect,exclusion,True,1,True
+Screenable & Screened,38,answer,incorrect,exclusion,False,1,
+Screenable & Screened,38,answer,incorrect,exclusion,Unknown,4,
+Screenable & Screened,38,answer,not answered,,,0,
+Not Screenable but Screened,82,reasoning,correct,,,26,
+Not Screenable but Screened,82,reasoning,incorrect,,D,56,
+Not Screenable but Screened,82,reasoning,incorrect,,E,0,
+Not Screenable but Screened,82,reasoning,incorrect,,F,0,
+Not Screenable but Screened,82,reasoning,not reasoned,,,0,
+Not Screenable but Screened,82,answer,correct,inclusion,False,0,True
+Not Screenable but Screened,82,answer,correct,inclusion,Unknown,8,
+Not Screenable but Screened,82,answer,correct,inclusion,True,0,
+Not Screenable but Screened,82,answer,correct,exclusion,False,0,
+Not Screenable but Screened,82,answer,correct,exclusion,Unknown,18,
+Not Screenable but Screened,82,answer,correct,exclusion,True,0,True
+Not Screenable but Screened,82,answer,incorrect,inclusion,False,31,True
+Not Screenable but Screened,82,answer,incorrect,inclusion,Unknown,0,
+Not Screenable but Screened,82,answer,incorrect,inclusion,True,3,
+Not Screenable but Screened,82,answer,incorrect,exclusion,False,5,
+Not Screenable but Screened,82,answer,incorrect,exclusion,Unknown,0,
+Not Screenable but Screened,82,answer,incorrect,exclusion,True,17,True
+Not Screenable but Screened,82,answer,not answered,,,0,
+Not Screenable & Not Screened,162,reasoning,not reasoned,,,162,
+Not Screenable & Not Screened,162,answer,not answered,,,162,
+Screenable but Not Screened,20,reasoning,not reasoned,,,20,
+Screenable but Not Screened,20,answer,not answered,,,20,
+Screenable but Not Screened,20,answer,not answered,inclusion,True,11,False
+Screenable but Not Screened,20,answer,not answered,inclusion,False,0,True
+Screenable but Not Screened,20,answer,not answered,exclusion,True,4,True
+Screenable but Not Screened,20,answer,not answered,exclusion,False,4,False
+Trial Evaluation TP,1,,,,,,
+Trial Evaluation FP,0,,,,,,
+Trial Evaluation TN,4,,,,,,
+Trial Evaluation FN,5,,,,,,
+Trial Evaluation NOT_SCREENED,5,,,,,,

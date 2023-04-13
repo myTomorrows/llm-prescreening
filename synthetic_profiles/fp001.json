@@ -1,0 +1,15 @@
+{
+    "profile": {
+        "profile": "Histology: Squamous cell carcinoma of the cervix metastasized to pelvic lymph nodes \nPrevious treatment: carboplatin/paclitaxel/bevacizumab/Keytruda and radiotherapy\nBiomarkers: HPV16-\nComorbidities: Diabetes Mellitus Type 1\nOther: ECOG 0",
+        "condition": "Cancer of the Uterine Cervix",
+        "country": "France",
+        "age": 36,
+        "gender": "Female"
+    },
+    "validation_eligibility": {
+        "eligible": [
+            "NCT04697628", "NCT04665921", "NCT04242199", "NCT04234113", "NCT04389632", "NCT04432857", "NCT03108495", "NCT05180474"
+        ],
+    "ineligible": ["NCT03534713", "NCT04016142", "NCT03612791", "NCT04652076", "NCT03946358", "NCT03260023", "NCT02628067"]
+    }
+}

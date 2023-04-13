@@ -1,0 +1,13 @@
+{
+    "profile": {
+        "condition": "Leukemia, Myeloid, Acute",
+        "country": "Belgium",
+        "age": 62,
+        "gender": "Male",
+        "profile": "Diagnosed with Acute Myeloid Leukemia\nMale aged 62\nHistology: 42% blasts\nPrevious treatment: 7+3 induction  and HiDAC consolidation \nBiomarkers: NPM1 mutated\nComorbidities: Depression\nOther: 5 year clean of alcohol addiction"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT04167696", "NCT04702425", "NCT02841540", "NCT04113616", "NCT05506332"],
+        "ineligible": ["NCT04778397", "NCT04603001", "NCT01686334", "NCT04632316", "NCT05079230", "NCT03839771"]
+    }
+}

@@ -1,0 +1,40 @@
+Part of Confusion Matrix,total,type,evaluation,in-/exclusion,value,count,impacts_recall
+Screenable & Screened,3,reasoning,correct,,,3,
+Screenable & Screened,3,reasoning,incorrect,,D,0,
+Screenable & Screened,3,reasoning,incorrect,,E,0,
+Screenable & Screened,3,reasoning,incorrect,,F,0,
+Screenable & Screened,3,reasoning,not reasoned,,,0,
+Screenable & Screened,3,answer,correct,inclusion,True,3,
+Screenable & Screened,3,answer,correct,exclusion,True,0,True
+Screenable & Screened,3,answer,incorrect,inclusion,True,0,
+Screenable & Screened,3,answer,incorrect,exclusion,True,0,True
+Screenable & Screened,3,answer,not answered,,,0,
+Not Screenable but Screened,33,reasoning,correct,,,21,
+Not Screenable but Screened,33,reasoning,incorrect,,D,12,
+Not Screenable but Screened,33,reasoning,incorrect,,E,0,
+Not Screenable but Screened,33,reasoning,incorrect,,F,0,
+Not Screenable but Screened,33,reasoning,not reasoned,,,0,
+Not Screenable but Screened,33,answer,correct,inclusion,Unknown,3,
+Not Screenable but Screened,33,answer,correct,inclusion,False,0,True
+Not Screenable but Screened,33,answer,correct,inclusion,True,0,
+Not Screenable but Screened,33,answer,correct,exclusion,Unknown,18,
+Not Screenable but Screened,33,answer,correct,exclusion,False,0,
+Not Screenable but Screened,33,answer,correct,exclusion,True,0,True
+Not Screenable but Screened,33,answer,incorrect,inclusion,Unknown,0,
+Not Screenable but Screened,33,answer,incorrect,inclusion,False,0,True
+Not Screenable but Screened,33,answer,incorrect,inclusion,True,1,
+Not Screenable but Screened,33,answer,incorrect,exclusion,Unknown,0,
+Not Screenable but Screened,33,answer,incorrect,exclusion,False,11,
+Not Screenable but Screened,33,answer,incorrect,exclusion,True,0,True
+Not Screenable but Screened,33,answer,not answered,,,0,
+Not Screenable & Not Screened,64,reasoning,not reasoned,,,64,
+Not Screenable & Not Screened,64,answer,not answered,,,64,
+Screenable but Not Screened,3,reasoning,not reasoned,,,3,
+Screenable but Not Screened,3,answer,not answered,,,3,
+Screenable but Not Screened,3,answer,not answered,inclusion,True,3,False
+Screenable but Not Screened,3,answer,not answered,exclusion,True,0,True
+Trial Evaluation TP,5,,,,,,
+Trial Evaluation FP,0,,,,,,
+Trial Evaluation TN,0,,,,,,
+Trial Evaluation FN,0,,,,,,
+Trial Evaluation NOT_SCREENED,0,,,,,,

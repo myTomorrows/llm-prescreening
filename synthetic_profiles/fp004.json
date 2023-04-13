@@ -1,0 +1,14 @@
+{
+    "uuid": "7a899165-e3bb-4917-8704-f31de311f366",
+    "profile": {
+        "condition": "Cholangiocarcinoma",
+        "country": "United States of America",
+        "age": 38,
+        "gender": "Female",
+        "profile": "Histology: unresectable locally advanced intrahepatic cholangiocarcinoma\nPrevious treatment: first-line gem/cis, second-line pemigatinib, third-line FOLFOX\nBiomarkers: FGFR2-BICC1 fusion, IDH wildtype\nBlood test: normal blood count, eGFR is 82 ml/min/1.73m2\nComorbidities: None\nOther: switched cisplatin to carboplatin due to ototoxicity"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT04233567","NCT04742959","NCT04491942","NCT05007106","NCT04913337","NCT05286814","NCT03801083","NCT05074472","NCT04708067","NCT04526106","NCT03368963","NCT04668976","NCT04421820","NCT04430738","NCT04666688","NCT04137289","NCT03942328","NCT03907852","NCT05086692","NCT05123482","NCT05215574","NCT05220722","NCT05194735","NCT05194072","NCT05311618","NCT04507503"],
+        "ineligible": ["NCT04941287", "NCT05655949", "NCT05514912", "NCT05510427", "NCT05506943", "NCT05482516", "NCT05422690", "NCT05242822", "NCT05211323", "NCT04891289", "NCT04566393", "NCT04251715", "NCT02834013", "NCT03878095", "NCT04989218", "NCT04068194", "NCT03872947", "NCT05001282", "NCT04565275", "NCT03656536", "NCT03212274", "NCT02628067", "NCT04088188", "NCT04919642", "NCT04521686", "NCT04853017", "NCT04566133"]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "uuid": "697649d7-0458-41c7-bb06-c9813984fefe",
+    "profile": {
+        "condition": "Muscular Dystrophy, Duchenne",
+        "country": null,
+        "age": 6,
+        "gender": "Male",
+        "profile": "Histology: None\nPrevious treatment: Deflazacort\nBiomarkers: DMD exon 27 deletion\nTests: LVEF 62%, eGFR 92 ml/min/1.73m2\nComorbidities: None\nOther: Ambulatory"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT03936894","NCT04587908","NCT05693142","NCT05338099","NCT04281485"],
+        "ineligible": ["NCT05540860", "NCT05524883", "NCT05185622", "myT00003", "myT00202101", "NCT03992430", "myT04275861", "NCT04906460", "NCT04060199"
+        ]
+    }
+}

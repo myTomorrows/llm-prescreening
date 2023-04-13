@@ -1,0 +1,14 @@
+{
+    "uuid": "0e1017de-ba2e-489c-bda4-8adfec6c61db",
+    "profile": {
+        "condition": "Amyotrophic Lateral Sclerosis",
+        "country": "France",
+        "age": 53,
+        "gender": "Male",
+        "profile": "Histology: None\nPrevious treatment: riluzole since two months\nBiomarkers: SOD1 mutation\nTests: None\nComorbidities: rheumatoid arthritis\nOther: None"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT04856982","NCT04993755","NCT03127267","NCT04944784","NCT05237284","NCT05508074"],
+        "ineligible": []
+    }
+}

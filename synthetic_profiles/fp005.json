@@ -1,0 +1,14 @@
+{
+    "uuid": "9445e587-1ea7-4bd0-9cc7-e2a2457a345b",
+    "profile": {
+        "condition": "Glioblastoma",
+        "country": "Spain",
+        "age": 32,
+        "gender": "Male",
+        "profile": "Histology: multifocal glioblastoma multiforme\nPrevious treatment: STUPP\nBiomarkers: MGMT promotor unmethylated, TERT promotor methylated, IDH wildtype, EGFR overexpression\nBlood tests: None\nComorbidities: None\nOther: None"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT03872778","NCT03175224","NCT04762069","NCT05109728","NCT05187624","NCT02611024","NCT05267106"],
+        "ineligible": ["NCT05635734", "NCT03872778", "NCT05432375", "NCT05267106", "NCT05187624", "NCT05109728", "NCT02685605", "NCT04762069", "NCT03175224", "NCT04324840", "NCT02611024", "NCT04250922"]
+    }
+}

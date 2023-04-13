@@ -1,0 +1,14 @@
+{
+    "uuid": "6e1ed04c-58a6-454b-b24e-2a5ca224f650",
+    "profile": {
+        "condition": "Colorectal Cancer",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "age": 48,
+        "gender": "Male",
+        "profile": "Histology: adenocarcinoma in caecum with liver metastases\nPrevious treatment: 1. laparoscopic right hemicolectomy and adjuvant CAPOX-bevacizumab; 2. FOLFIRI; 3. Lonsurf\nBiomarkers: MMR proficient, MSS, TMB-low, KRAS G13D\nComorbidities: COPD\nOther: None"
+    },
+    "validation_eligibility": {
+        "eligible":["NCT04929223", "NCT04272034", "NCT04969835", "NCT05107674", "NCT05489211", "NCT05688280"],
+        "ineligible": ["NCT05678257", "NCT05197322", "NCT05198934", "NCT04046133", "NCT04952753", "NCT04294160", "NCT05057013", "NCT04472429", "NCT03916510"]
+    }
+}
