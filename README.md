@@ -1,8 +1,6 @@
-> **Warning** Work in progress
-
 # LLM-assisted pre-screening for clinical trials
 
-Official repository for the paper [Improving Patient Pre-screening for Clinical Trials: Assisting Physicians with Large Language Models](https://www.mytomorrows.com)
+Official repository for the paper [Improving Patient Pre-screening for Clinical Trials: Assisting Physicians with Large Language Models](https://arxiv.org/abs/2304.07396)
 
 ## Abstract
 
@@ -23,14 +21,14 @@ The overall and per-patient performance metrics can be found [here](https://gith
 ## Citation
 
 ```
-@misc{tbd,
-  doi = {placeholder},
-  url = {placeholder},
+@misc{https://doi.org/10.48550/arXiv.2304.07396,
+  doi = {10.48550/arXiv.2304.07396},
+  url = {https://arxiv.org/abs/2304.07396},
   author = {den Hamer, Danny and Schoor, Perry and Polak, Tobias and Kapitan, Daniel},
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.1; I.2.7},
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, I.2.1; I.2.7},
   title = {Improving Patient Pre-screening for Clinical Trials: Assisting Physicians with Large Language Models},
   publisher = {arXiv},
   year = {2023},
-  copyright = {placeholder}
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
